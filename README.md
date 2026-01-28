@@ -26,16 +26,17 @@
 
 ```
 HTML/
-├── 📄 index.html                    # Main landing page
-├── 📄 heading.html                  # HTML heading examples (h1-h6)
-├── 📄 formating.html               # Text formatting demonstrations
-├── 📄 colors.html                  # Color styling examples
-├── 📄 style.css                    # Global stylesheet
+├── 📄 [index.html](index.html)                    # Main landing page
+├── 📄 [heading.html](heading.html)                  # HTML heading examples (h1-h6)
+├── 📄 [formating.html](formating.html)               # Text formatting demonstrations
+├── 📄 [colors.html](colors.html)                  # Color styling examples
+├── 📄 [style.css](style.css)                    # Global stylesheet
 ├── 📂 assets/                      # Project assets
 │   ├── 🖼️ HTML.png                 # Project banner image
 │   └── 🖼️ Image.png                # Additional project image
-├── 📄 README.md                    # Project documentation
-└── 📄 LICENSE                      # MIT License
+├── 📄 [README.md](README.md)                    # Project documentation
+├── 📄 [LICENSE](LICENSE)                      # MIT License
+└── 📄 .gitignore                   # Git ignore patterns
 ```
 
 ---
@@ -46,11 +47,11 @@ HTML/
 
 | 📚 Topic | 📄 File | 🎯 Learning Goal |
 |----------|---------|------------------|
-| **HTML Structure** | `index.html` | Document structure, semantic HTML |
-| **Headings** | `heading.html` | H1-H6 hierarchy, accessibility |
-| **Text Formatting** | `formating.html` | Bold, italic, underline, emphasis |
-| **Colors & Styling** | `colors.html` | CSS colors, backgrounds, themes |
-| **CSS Fundamentals** | `style.css` | Selectors, properties, responsive design |
+| **HTML Structure** | [index.html](index.html) | Document structure, semantic HTML |
+| **Headings** | [heading.html](heading.html) | H1-H6 hierarchy, accessibility |
+| **Text Formatting** | [formating.html](formating.html) | Bold, italic, underline, emphasis |
+| **Colors & Styling** | [colors.html](colors.html) | CSS colors, backgrounds, themes |
+| **CSS Fundamentals** | [style.css](style.css) | Selectors, properties, responsive design |
 
 </div>
 
@@ -68,7 +69,7 @@ HTML/
 
 ```bash
 # Clone or download the project
-git clone <repository-url>
+git clone https://github.com/AbhishekGiri04/html-studio.git
 
 # Navigate to the HTML folder
 cd HTML
@@ -83,22 +84,22 @@ python -m http.server 8000  # For local server
 
 Simply open any HTML file in your web browser:
 
-- **Main Page**: `index.html`
-- **Headings Demo**: `heading.html`
-- **Formatting Examples**: `formating.html`
-- **Color Showcase**: `colors.html`
+- **Main Page**: [index.html](index.html)
+- **Headings Demo**: [heading.html](heading.html)
+- **Formatting Examples**: [formating.html](formating.html)
+- **Color Showcase**: [colors.html](colors.html)
 
 ---
 
 ## 📖 File Descriptions
 
-### 🏠 index.html
+### 🏠 [index.html](index.html)
 The main landing page that serves as the entry point to the project. Features navigation links to all other pages and provides an overview of the learning content.
 
-### 📝 heading.html
+### 📝 [heading.html](heading.html)
 Demonstrates HTML heading hierarchy from H1 to H6, showcasing proper semantic structure and accessibility best practices for web content organization.
 
-### ✨ formating.html
+### ✨ [formating.html](formating.html)
 Comprehensive examples of HTML text formatting including:
 - **Bold** and *italic* text
 - Underlined content
@@ -106,7 +107,7 @@ Comprehensive examples of HTML text formatting including:
 - Subscript and superscript
 - Code formatting
 
-### 🎨 colors.html
+### 🎨 [colors.html](colors.html)
 Visual showcase of CSS color implementations:
 - Named colors
 - Hex color codes
@@ -114,7 +115,7 @@ Visual showcase of CSS color implementations:
 - Background colors
 - Text color variations
 
-### 🎨 style.css
+### 🎨 [style.css](style.css)
 Global stylesheet containing:
 - Reset and normalize styles
 - Typography definitions
@@ -242,4 +243,4 @@ This project is open source and available under the **MIT License** - see the [L
 <img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/For-Learning-4CAF50?style=for-the-badge"/>
 
-</div># html-studio
+</div>
