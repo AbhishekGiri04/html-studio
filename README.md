@@ -7,7 +7,7 @@
 <p style="color: #2563eb; margin: 15px 0; font-size: 1.1em;">🚀 A comprehensive HTML learning project featuring practical examples of web development fundamentals including headings, formatting, colors, and styling. This repository demonstrates core HTML concepts with clean, semantic markup and modern CSS styling techniques for building responsive web applications.</p>
 
 <p style="font-size: 1.2em; color: #1e40af; background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%); padding: 20px; border-radius: 12px; max-width: 800px; margin: 20px auto; line-height: 1.6; border-left: 4px solid #2563eb;">
-🎯 <b>5 HTML Pages</b> with examples | ⚡ <b>Modern CSS</b> styling | 🌐 <b>Responsive Design</b> | 📱 <b>Mobile-First</b> approach
+🎯 <b>6 HTML Pages</b> with examples | ⚡ <b>Modern CSS</b> styling | 🌐 <b>Responsive Design</b> | 📱 <b>Mobile-First</b> approach
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@ HTML/
 │   ├── 📄 P7.html                  # Practice example 7
 │   ├── 📄 P8.html                  # Practice example 8
 │   └── 📄 P9.html                  # Practice example 9
-├── 📄 [README.md](README.md)       # Project documentation
-├── 📄 [LICENSE](LICENSE)           # MIT License
+├── 📄 README.md                    # Project documentation
+├── 📄 LICENSE                      # MIT License
 └── 📄 .gitignore                   # Git ignore patterns
 ```
 
@@ -62,6 +62,7 @@ HTML/
 | **Headings** | [heading.html](heading.html) | H1-H6 hierarchy, accessibility |
 | **Text Formatting** | [formating.html](formating.html) | Bold, italic, underline, emphasis |
 | **Colors & Styling** | [colors.html](colors.html) | CSS colors, backgrounds, themes |
+| **Link Tags** | [linktags.html](linktags.html) | HTML links, navigation, anchors |
 | **CSS Fundamentals** | [style.css](style.css) | Selectors, properties, responsive design |
 
 </div>
@@ -99,6 +100,7 @@ Simply open any HTML file in your web browser:
 - **Headings Demo**: [heading.html](heading.html)
 - **Formatting Examples**: [formating.html](formating.html)
 - **Color Showcase**: [colors.html](colors.html)
+- **Link Tags Demo**: [linktags.html](linktags.html)
 
 ---
 
@@ -125,6 +127,14 @@ Visual showcase of CSS color implementations:
 - RGB and RGBA values
 - Background colors
 - Text color variations
+
+### 🔗 [linktags.html](linktags.html)
+Comprehensive examples of HTML link elements:
+- Internal and external links
+- Navigation menus
+- Anchor links
+- Link styling and states
+- Best practices for accessibility
 
 ### 🎨 [style.css](style.css)
 Global stylesheet containing:
