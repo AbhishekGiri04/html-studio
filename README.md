@@ -26,16 +26,27 @@
 
 ```
 HTML/
-├── 📄 [index.html](index.html)                    # Main landing page
-├── 📄 [heading.html](heading.html)                  # HTML heading examples (h1-h6)
-├── 📄 [formating.html](formating.html)               # Text formatting demonstrations
-├── 📄 [colors.html](colors.html)                  # Color styling examples
-├── 📄 [style.css](style.css)                    # Global stylesheet
+├── 📄 index.html                   # Main landing page
+├── 📄 heading.html                 # HTML heading examples (h1-h6)
+├── 📄 formating.html               # Text formatting demonstrations
+├── 📄 colors.html                  # Color styling examples
+├── 📄 linktags.html                # HTML link tags examples
+├── 📄 style.css                    # Global stylesheet
 ├── 📂 assets/                      # Project assets
 │   ├── 🖼️ HTML.png                 # Project banner image
 │   └── 🖼️ Image.png                # Additional project image
-├── 📄 [README.md](README.md)                    # Project documentation
-├── 📄 [LICENSE](LICENSE)                      # MIT License
+├── 📂 PCS-693/                     # Additional HTML examples
+│   ├── 📄 P1.html                  # Practice example 1
+│   ├── 📄 P2.html                  # Practice example 2
+│   ├── 📄 P3.html                  # Practice example 3
+│   ├── 📄 P4.html                  # Practice example 4
+│   ├── 📄 P5.html                  # Practice example 5
+│   ├── 📄 P6.html                  # Practice example 6
+│   ├── 📄 P7.html                  # Practice example 7
+│   ├── 📄 P8.html                  # Practice example 8
+│   └── 📄 P9.html                  # Practice example 9
+├── 📄 [README.md](README.md)       # Project documentation
+├── 📄 [LICENSE](LICENSE)           # MIT License
 └── 📄 .gitignore                   # Git ignore patterns
 ```
 
