@@ -36,20 +36,19 @@ HTML/
 │   ├── 🖼️ HTML.png                 # Project banner image
 │   └── 🖼️ Image.png                # Additional project image
 ├── 📂 PCS-693/                     # Lab practice examples
-│   ├── 📂 PCS-693/                 # Practice HTML files
-│   │   ├── 📄 P1.html              # Practice example 1
-│   │   ├── 📄 P2.html              # Practice example 2
-│   │   ├── 📄 P3.html              # Practice example 3
-│   │   ├── 📄 P4.html              # Practice example 4
-│   │   ├── 📄 P5.html              # Practice example 5
-│   │   ├── 📄 P6.html              # Practice example 6
-│   │   ├── 📄 P7.html              # Practice example 7
-│   │   ├── 📄 P8.html              # Practice example 8
-│   │   ├── 📄 P9.html              # Practice example 9
-│   │   ├── 📄 P10.html             # Practice example 10
-│   │   ├── 📄 P11.html             # Practice example 11
-│   │   ├── 📄 P12.html             # Practice example 12
-│   │   └── 📄 P13.html             # Practice example 13
+│   ├── 📄 P1.html                  # Practice example 1
+│   ├── 📄 P2.html                  # Practice example 2
+│   ├── 📄 P3.html                  # Practice example 3
+│   ├── 📄 P4.html                  # Practice example 4
+│   ├── 📄 P5.html                  # Practice example 5
+│   ├── 📄 P6.html                  # Practice example 6
+│   ├── 📄 P7.html                  # Practice example 7
+│   ├── 📄 P8.html                  # Practice example 8
+│   ├── 📄 P9.html                  # Practice example 9
+│   ├── 📄 P10.html                 # Practice example 10
+│   ├── 📄 P11.html                 # Practice example 11
+│   ├── 📄 P12.html                 # Practice example 12
+│   ├── 📄 P13.html                 # Practice example 13
 │   └── 📄 FSWD Lab Manual.pdf      # Lab manual documentation
 ├── 📄 README.md                    # Project documentation
 ├── 📄 LICENSE                      # MIT License
