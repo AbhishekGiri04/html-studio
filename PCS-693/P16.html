@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Birth Day Checker</title>
+</head>
+
+<body>
+    <h2>Enter the Birth Date</h2>
+
+    <input type="date" id="birthdate" />
+    <button id="btn">Check the day</button>
+
+    <script>
+        const checkTheDay = () => {
+            let inputDate = document.getElementById("birthdate").value;
+
+            if (!inputDate) {
+                alert("Please select a date");
+                return;
+            }
+
+            let birthDate = new Date(inputDate);
+
+            const weekdays = [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ];
+
+            const dayIdx = birthDate.getDay();
+            alert("You were born on a " + weekdays[dayIdx]);
+        };
+
+        document.getElementById("btn").addEventListener("click", checkTheDay);
+    </script>
+</body>
+</html>
