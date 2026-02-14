@@ -50,6 +50,9 @@ HTML/
 │   ├── 📄 P12.html                 # Practice example 12
 │   ├── 📄 P13.html                 # Practice example 13
 │   ├── 📄 P14.html                 # Practice example 14
+│   ├── 📄 P15.html                 # Practice example 15
+│   ├── 📄 P16.html                 # Practice example 16
+│   ├── 📄 P17.html                 # Practice example 17
 │   └── 📄 FSWD Lab Manual.pdf      # Lab manual documentation
 ├── 📄 README.md                    # Project documentation
 ├── 📄 LICENSE                      # MIT License

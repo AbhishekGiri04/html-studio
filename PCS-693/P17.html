@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self-Modifying Web Page</title>
+</head>
+<body>
+
+    <h1 id="content">Initial Content</h1>
+
+    <script>
+        // Function to modify the content
+        function modifyContent() {
+            var currentTime = new Date();
+
+            var hours = currentTime.getHours();
+            var minutes = currentTime.getMinutes();
+            var seconds = currentTime.getSeconds();
+
+            if (minutes < 10) minutes = "0" + minutes;
+            if (seconds < 10) seconds = "0" + seconds;
+
+            var newContent = "Current time: " + hours + ":" + minutes + ":" + seconds;
+
+            document.getElementById("content").innerText = newContent;
+        }
+
+        // Call function immediately
+        modifyContent();
+
+        // Call modifyContent function every minute (60000 ms)
+        setInterval(modifyContent, 60000);
+    </script>
+
+</body>
+</html>
